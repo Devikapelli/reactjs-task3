@@ -1,0 +1,81 @@
+{
+	"profiles":[
+		{
+			"basics":{
+				"name":"Devi Kapelli",
+				"role":"Student",
+				"email":"shetani151@gmail.com",
+				"mobile":"+91 8500491136",
+				"gender":"female",
+				"address":"chintalapudi,Andhra pradesh"
+
+			},
+			"summery":[
+				"I am Fresher in computer science engineering",
+                "But i having knowledge in some technologies like HTML5,CSS3,and Javascript",
+                "Having knowledge on Python, C++,React",
+                "Used different kinds of frameworks for backend i.e Codeigniter,Django and Express",
+                "Used databases like mySql,oracle and firebase"
+
+			],
+			"education":[
+				{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"85%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Sri Chaitanya Junior College",
+                    "result":"89%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":"City high school",
+                    "result":"95%"
+				}
+
+
+			]
+		},
+	    {
+	    	"basics":{
+				"name":"anishka Aadya",
+				"role":"Student",
+				"email":"aadya7517@gmail.com",
+				"mobile":"+91 8247745088",
+				"gender":"female",
+				"address":"chintalapudi,Andhra pradesh"
+
+			},
+			"summery":[
+				"I am Fresher in computer science engineering",
+                "But i having knowledge in some technologies like HTML5,CSS3,and Javascript",
+                "Having knowledge on Python, C++,React",
+                "Used different kinds of frameworks for backend i.e ,Django and Express",
+                "Used databases like mySql,oracle"
+
+			],
+			"education":[
+				{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"85%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Narayana Junior College",
+                    "result":"87%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":"Global kids e.m high school",
+                    "result":"90%"
+				}
+
+
+			]
+	    }
+		
+	]
+}
